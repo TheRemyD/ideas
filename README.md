@@ -18,3 +18,7 @@ The Duke - Two player chess like game
   - using JS to move pieces as per rules
 
 ---
+
+digiDucky
+  - Create a Digital Open Source Rubber Ducky that listens responds to user when they talk to them with some basic responses
+  - Kind of like a magic 8 ball (Oh I see... Can you explain that again? I can sympothize. That is not very fun. Have you read the documentation yet? When in doubt, log it out.)
