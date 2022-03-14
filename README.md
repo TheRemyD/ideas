@@ -10,3 +10,11 @@ ToDo list
   - All time on ToDo is tracked and reported daily/weekly/annually/upon completion
 
 ---
+
+The Duke - Two player chess like game
+  - Create Board
+  - Create pieces
+  - Create shuffle method
+  - using JS to move pieces as per rules
+
+---
